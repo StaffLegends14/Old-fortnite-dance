@@ -65,7 +65,7 @@ function draw() {
  
   Ground.display();
   Ground2.display();
-  //image(back,width/2,height/2,1858,977)
+  image(back,width/2,height/2,1858,977)
 
   zombie.addImage(zomb);
   zombie.scale = 0.2
